@@ -1,2 +1,2 @@
 # Homework
-repozitář s domácími úkoly
+Daniel Kókay - repozitář s domácími úkoly
